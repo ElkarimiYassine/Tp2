@@ -1,4 +1,4 @@
-#Etude de cas : Modélisation des concepts d'examen, question et réponse
+# Etude de cas : Modélisation des concepts d'examen, question et réponse
 Un examen contient des questions, à chaque question est attribué un nombre de points dans le contexte de celui-ci.
 
 Un examen a un intitulé et une durée et peut être ouvert et refermé dans un intervalle supérieur ou égale à la durée de celui-ci.
